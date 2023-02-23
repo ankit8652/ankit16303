@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FheyValdemar%2FheyValdemar&psig=AOvVaw2zeWZHWaOSjWr1-o-0DSpb&ust=1677216483887000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKiKv7j0qv0CFQAAAAAdAAAAABAE)](https://ankit16303.io)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://ankit16303.io)
 <h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
 <h3 align="center">A passionate coder and developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit16303&label=Profile%20views&color=0e75b6&style=flat" alt="ankit16303" /> </p>
 
 - 🌱 I’m currently learning **React and Nodejs**
-
-- 📝 I regularly write articles on [new technoloiges.](new technoloiges.)
 
 - 💬 Ask me about **Java, Python, Data Structures and Algorithms.**
 
