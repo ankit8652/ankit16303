@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Mishra</h1>
 <h3 align="center">A passionate coder and developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://giphy.com/explore/programmer](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)"/>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3tjBWa7wOnLqHiD5BN8PWt&ust=1677214405066000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPiTptnsqv0CFQAAAAAdAAAAABAE"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit16303&label=Profile%20views&color=0e75b6&style=flat" alt="ankit16303" /> </p>
 
